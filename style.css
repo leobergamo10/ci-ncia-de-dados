@@ -2,8 +2,8 @@
 
 :root {
     --bg-color: #08234d;
-    --primary-color: #70d9f7;
-    --secondary-color: #F05454;
+    --primary-color: #12e493;
+    --secondary-color: hwb(0 9% 13%);
     --font: "Nunito Sans", sans-serif;
 }
 
